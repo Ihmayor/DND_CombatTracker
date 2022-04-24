@@ -1,2 +1,2 @@
 # DND_CombatTracker
-React Coding Exercise to create a customizable light-weight RPG turn tracker
+React Coding Exercise to create a personal light-weight RPG turn tracker
